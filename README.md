@@ -2,6 +2,10 @@
 
 DreamQuill is an AI-powered interactive story generator that creates unique, branching narratives using Google's Gemini AI. Users can either generate random stories or provide custom prompts to create their own adventures.
 
+#Checkout at -
+
+- https://dreamquill.netlify.app/
+
 
 ## Features
 
@@ -100,10 +104,6 @@ src/
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
